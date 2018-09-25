@@ -1,0 +1,6 @@
+
+apply plugin: 'java' 
+
+task h2 {
+    println "this is coool"
+}
